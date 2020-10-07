@@ -50,7 +50,8 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg38" />
+     inkscape:current-layer="svg38"
+     inkscape:document-rotation="0" />
   <path
      fill="#ffffff"
      d="M0 0L600.0 0L600.0 371.0L0 371.0L0 0Z"
@@ -148,13 +149,13 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8508px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;opacity:0.338129;fill:#000000;stroke-width:0.150595"
-     x="118.78419"
-     y="345.19095"
+     x="114.92197"
+     y="341.44534"
      id="text897"
      transform="scale(1.0229029,0.9776099)"><tspan
        sodipodi:role="line"
        id="tspan895"
-       x="118.78419"
-       y="345.19095"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000000;stroke-width:0.150595">fonte: github.com/jhoonb/maracaju-eleicao-2020</tspan></text>
+       x="114.92197"
+       y="341.44534"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000000;stroke-width:0.150595">fonte: jhoonb.github.io/maracaju-eleicao-2020</tspan></text>
 </svg>

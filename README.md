@@ -1,7 +1,9 @@
 Eleição 2020 - Maracaju, Mato Grosso do Sul
 =
 
-[*em desenvolvimento...*]
+
+página: [https://jhoonb.github.io/maracaju-eleicao-2020](https://jhoonb.github.io/maracaju-eleicao-2020)
+
 
 
 Dados sobre os candidatos
@@ -218,9 +220,8 @@ order by quantidade desc
 ## TODO
 
 
-- [ ] adicionar e relacionar as fotos (no index.html)
-
-- [ ] tabela com filtro dos dados (json / js frontend)
+- [x] adicionar e relacionar as fotos (no index.html)
+    - criado um mosaico.
 
 - [ ] adicionar ao banco sqlite os bens dos candidatos
 

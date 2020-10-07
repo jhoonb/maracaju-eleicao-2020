@@ -40,17 +40,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1024"
+     inkscape:window-height="518"
      id="namedview54"
      showgrid="false"
      inkscape:zoom="0.77628032"
-     inkscape:cx="259.45097"
-     inkscape:cy="130.69992"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg52" />
+     inkscape:cx="0.21605319"
+     inkscape:cy="164.95784"
+     inkscape:window-x="170"
+     inkscape:window-y="88"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg52"
+     inkscape:document-rotation="0" />
   <path
      fill="#ffffff"
      d="M0 0L600.0 0L600.0 371.0L0 371.0L0 0Z"
@@ -188,10 +189,10 @@
      x="111.48621"
      y="349.54297"
      id="text897"
-     transform="scale(1.0229029,0.9776099)"><tspan
+     transform="scale(1.0229029,0.97760989)"><tspan
        sodipodi:role="line"
        id="tspan895"
        x="111.48621"
        y="349.54297"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000000;stroke-width:0.150595">fonte: github.com/jhoonb/maracaju-eleicao-2020</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000000;stroke-width:0.150595">fonte: jhoonb.github.io/maracaju-eleicao-2020</tspan></text>
 </svg>
